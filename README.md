@@ -1,4 +1,5 @@
 **Requirements**
+
 Install Node.js
 
 **Get Dependancies**
@@ -6,7 +7,12 @@ Install Node.js
 npm install
 ```
 
-**Run Problems**
+**Run All Problems**
 ```bash
 npm run dev
+```
+
+**Run Single Day**
+```bash
+npm run day[day number]
 ```
